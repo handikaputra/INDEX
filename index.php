@@ -58,7 +58,7 @@
           <h1>FAKK U BITCH</h1>
           <p>WELCOME TO PARADISE HELL YEAH BITCH.</p>
           <br>
-          <a href="handikaputh.blogspot.com" class="btn btn-default btn-lg" title="">WELCOME</a>
+          <a src="handikaputh.blogspot.com" class="btn btn-default btn-lg" title="">WELCOME</a>
         </div>
       </div>
     </div>
